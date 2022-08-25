@@ -1,6 +1,6 @@
 # My Full stack development journey
 
-![] (/images/InstaToon.png)
+![] (/images/InstaToon.JPG)
 
 1. I wasn't sure what to expect during the first week but it's going well
 
