@@ -1,6 +1,6 @@
 # My full stack development journey
 
-![](images/InstaToon.jpg| width=100)
+<img src="InstaToon.jpg" width="340px" height="340px">
 
 1. I wasn't sure what to expect during the first week but it's going well
 
