@@ -1,5 +1,3 @@
-
-
 # My full stack development journey
 
  ![](images/InstaToon2.jpg)
