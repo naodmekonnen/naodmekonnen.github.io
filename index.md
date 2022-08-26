@@ -2,9 +2,15 @@
 
 <img src="InstaToon.jpg" width="340px" height="340px">
 
-1. I wasn't sure what to expect during the first week but it's going well
+**1.Was your first week what you expected? Why? Why not?**
 
-2. I'm looking to get more comfortable with the Github interface for this week 
-   and I'm excited about becoming a better problem solver.
+_I wasn't sure what to expect during the first week but it's going well_
 
-3. I can make a decent Tiramisu 
+**2.What are you excited or eager to learn more about?**
+
+_I'm looking to get more comfortable with the Github interface for this week 
+   and I'm excited about becoming a better problem solver._
+
+**What is something about you that can only be learned by reading this blog?**
+
+_I can make a decent Tiramisu_
