@@ -1,6 +1,6 @@
-# My Full stack development journey
+# My full stack development journey
 
-![](images/InstaToon.jpg)
+![](images/InstaToon.jpg| width=100)
 
 1. I wasn't sure what to expect during the first week but it's going well
 
