@@ -1,6 +1,6 @@
 # My full stack development journey
 
-<img src="InstaToon.jpg" width="340px" height="340px">
+ ![](images/InstaToon2.jpg)
 
 **1.Was your first week what you expected? Why? Why not?**
 
