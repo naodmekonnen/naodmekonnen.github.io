@@ -1,5 +1,6 @@
 ## Blog Post
-#### 08/25/2022
+#### Sprint 1
+### 08/25/2022
 
 
 1. Was your first week what you expected? Why? Why not?
@@ -16,3 +17,6 @@ I'm excited about becoming a better problem solver
 3. What is something about you that can only be learned by reading this blog?
 
 I can make a decent Tiramisu
+
+###09/02/2022
+
