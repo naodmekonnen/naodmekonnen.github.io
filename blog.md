@@ -23,7 +23,7 @@ _I can make a decent Tiramisu_
 
 What is something you wish you could do but currently do not have the coding skills to accomplish?
 
-_I'd like to be able to start by automating some simple work tasks and I'vea also thought about working on a global money transfer system that would reach 
+_I'd like to be able to start by automating some simple work tasks and I've also thought about working on a global money transfer system that would reach 
  people in remote and unbanked parts of the world._
  
  What are you struggling with?
