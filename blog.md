@@ -55,5 +55,23 @@ _I've been searching on google and watching tutorials. I haven't taken advantage
  **What are your thoughts on pseudocoding?**
  
  _I think it's a critical component of programming. It helps to articulate the problem and break it down into smaller chunks and from there we can write in plain language what every line of code should do. And it also helps in understanding the sequence of execution for a program or a code block._
+ 
+ ## Sprint 4
+ ### 09/16/2022
+ 
+ **What was helpful during Onboarding working remotely?**
+ 
+ _The daily stand-ups and the slack channels. I've also found Demo days very helpful, I received very useful feedback and had the chance to see other people's work._
+ 
+ **What hindered your progress during Onboarding?**
+ 
+ _I was working a lot during the first few weeks so I'd say time constraints._
+ 
+ **How did you overcome challenges during Onboarding?**
+ 
+ _The first few weeks weren't as challenging since it was a refresher from the intro course. However the last week of onboarding I had the opportunity to collaborate with another student. Some outside resources like youtube, stackoverflow etc.. have helped.
+
+
+
 
 
