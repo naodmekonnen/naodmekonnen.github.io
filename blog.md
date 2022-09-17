@@ -69,7 +69,7 @@ _I've been searching on google and watching tutorials. I haven't taken advantage
  
  **How did you overcome challenges during Onboarding?**
  
- _The first few weeks weren't as challenging since it was a refresher from the intro course. However the last week of onboarding I had the opportunity to collaborate with another student. Some outside resources like youtube, stackoverflow etc.. have helped.
+ _The first few weeks weren't as challenging since it was a refresher from the intro course. However the last week of onboarding I had the opportunity to collaborate with another student. Some outside resources like youtube, stackoverflow etc.. have helped._
 
 
 
