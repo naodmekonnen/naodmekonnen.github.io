@@ -1,0 +1,9 @@
+.nav{
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+  }
+  
+  .nav {
+    text-align: center;
+  }
